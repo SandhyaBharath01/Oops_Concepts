@@ -1,6 +1,6 @@
 package IntroToOops;
 
-public class Client {
+public class PrintStudentClient {
     public static void main(String[] args) {
         PrintStudent ps1 = new PrintStudent();
         ps1.name = "Abc";
