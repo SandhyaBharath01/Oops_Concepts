@@ -1,4 +1,4 @@
-package InterfacesAndAbstractClasses;
+package Interface;
 
 public class InterfaceClass implements Interface1{
 
